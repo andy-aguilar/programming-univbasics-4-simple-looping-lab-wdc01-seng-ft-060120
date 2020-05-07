@@ -25,5 +25,5 @@ def output_array (array)
 end
 
 def return_string_array (array)
-  result = 
+  result = array.join ()
 end
